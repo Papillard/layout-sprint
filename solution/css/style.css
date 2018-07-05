@@ -1,0 +1,30 @@
+/* --- Import Google Fonts  --- */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
+
+/* --- Import components files --- */
+@import url("components/containers.css");
+@import url("components/buttons.css");
+@import url("components/banners.css");
+@import url("components/cards.css");
+@import url("components/map.css");
+@import url("components/newsletter.css");
+
+/* --- Basic styles for fonts & colors --- */
+body {
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  background: #F7F9FC;
+  margin: 0;
+}
+h1, h2, h3 {
+  font-family: "Montserrat", "sans-serif";
+}
+a {
+  color: rgb(200,200,200);
+  text-decoration: none;
+}
+a:hover {
+  color: #6A71E1;
+}
+.text-center {
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+.page-container {
+  display: flex;
+}
+
+#map {
+  height: 100vh !important;
+  flex: 0 0 500px;
+  position: sticky !important;
+  top: 0px !important;
+}
+
+.cards {
+  flex-grow: 1;
+}

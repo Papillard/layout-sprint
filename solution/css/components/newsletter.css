@@ -1,0 +1,11 @@
+.newsletter-container {
+  background: white;
+  box-shadow: 0 18px 35px rgba(50,50,93,.1), 0 8px 15px rgba(0,0,0,.07);
+  border-radius: 4px;
+  padding: 50px;
+  margin-top: 100px;
+}
+
+.newsletter-container .button {
+  background:  #6772e5 !important;
+}
